@@ -28,6 +28,7 @@
     - Computer Graphics, Web Development, and Game Development.
 - I Love Pokémons!
 - From classic literature and manga to deep dives into tech books, I'm always reading something new.
+- Pixel Artist
 
   
 ### Tech Stack
