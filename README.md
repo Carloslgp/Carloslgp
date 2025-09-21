@@ -23,4 +23,8 @@
 |       Tools        |    <p align="center"> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,git,github,unity&perline=10" /> </p>     |
 |      DataBase      |    <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=10" /> </p>     |
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carloslgp/Carloslgp/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Carloslgp/Carloslgp/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Carloslgp/Carloslgp/output/github-contribution-grid-snake.svg">
+</picture>
