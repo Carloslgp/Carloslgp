@@ -19,14 +19,15 @@
 
 
 ### About Me
-- I'm a Software Engineering student at PUCPR.
+- Software Engineering student at PUCPR.
 - I'm passionate about gaming, music, reading, and coding!
 - I'm passionate about exploring the entire computing stack, with a focus on two main areas:
   - **Systems & Foundations:**
     - Computer Architecture, Networks, Operating Systems, Algorithms, and Low-Level Programming.
   - **Creative Applications:**
     - Computer Graphics, Web Development, and Game Development.
-- I Love Pokémons!   
+- I Love Pokémons!
+- From classic literature and manga to deep dives into tech books, I'm always reading something new.
 
   
 ### Tech Stack
