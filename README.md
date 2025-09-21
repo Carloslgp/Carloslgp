@@ -1,6 +1,22 @@
 # Hi, I'm Carlos!
 
-![Abra GIF](https://bluemoonfalls.com/images/sprites/stadium2/normal/63.gif)
+<table>
+  <tr>
+    <td width="300" valign="middle" align="center">
+      <img src="https://bluemoonfalls.com/images/sprites/stadium2/normal/63.gif" />
+    </td>
+    
+  <td valign="middle">
+      <blockquote>
+        <p><i>"All problems in computer science can be solved by another level of indirection, except for the problem of too many layers of indirection."</i></p>
+        <cite>— David J. Wheeler</cite>
+      </blockquote>
+    </td>
+  </tr>
+</table>
+
+
+
 
 ### About Me
 - I'm a Software Engineering student at PUCPR.
@@ -33,3 +49,4 @@
 <a href="https://www.linkedin.com/in/carlos-leonardo-garcia-pscheidt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:carlos.pscheidt.garcia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/@IamSpiffys" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
