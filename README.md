@@ -26,14 +26,14 @@
     - Computer Architecture, Networks, Operating Systems, Algorithms, and Low-Level Programming.
   - **Creative Applications:**
     - Computer Graphics, Web Development, and Game Development.
-- I Love Pokémons!
+- I love Pokémon!
 - From classic literature and manga to deep dives into tech books, I'm always reading something new.
 - Pixel Artist
 
   
 ### Tech Stack
 
-|      Icon ID       |                         Icon                          |
+|      Topic         |                         Icon                          |
 | :----------------: | :---------------------------------------------------: |
 |     Languages      |    <p align="center"><img src="https://skillicons.dev/icons?i=python,java,js,html,css,tailwind&perline=10" /></p>    |
 |  Operating Systems |    <div align="center"><img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />&nbsp;<img src="https://devicon-website.vercel.app/api/fedora/plain.svg" width="48"></img></div>   |
