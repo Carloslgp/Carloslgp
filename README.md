@@ -20,7 +20,7 @@
 
 ### About Me
 - Software Engineering student at PUCPR.
-- I'm passionate about gaming, music, reading, and coding!
+- I'm passionate about gaming, music, reading, coding and math!
 - I'm passionate about exploring the entire computing stack, with a focus on two main areas:
   - **Systems & Foundations:**
     - Computer Architecture, Networks, Operating Systems, Algorithms, and Low-Level Programming.
