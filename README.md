@@ -29,6 +29,7 @@
 - I love Pokémon!
 - From classic literature and manga to deep dives into tech books, I'm always reading something new.
 - Pixel Artist
+- Musician
 
   
 ### Tech Stack
