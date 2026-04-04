@@ -38,7 +38,7 @@
 | :----------------: | :---------------------------------------------------: |
 |     Languages      |    <p align="center"><img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,cmake,php,cs&perline=10" /></p>    |
 |  Operating Systems |    <div align="center"><img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />&nbsp;<img src="https://devicon-website.vercel.app/api/fedora/plain.svg" width="48"></img></div>   |
-|      Studying      |    <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,aws&perline=10" /> </p>     |
+|      Studying      |    <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,azure,kotlin&perline=10" /> </p>     |
 |       Tools        |    <p align="center"> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,idea,git,github,unity&perline=10" /> </p>     |
 |      DataBase      |    <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=10" /> </p>     |
 
